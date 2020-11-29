@@ -1,14 +1,77 @@
 # Markdown Crash Course
 
 ## What is Markdown?
-
 * Lightweight markup language with a plain text formatting syntax.
 * Can be converted into JTML/XHTML and other formats.
 * It's main purpose is readability and ease of use.
 
+## What is Markdown used for?
+* Readme Files.
+* Forum & Blog Posts.
+* Used in many static site generators.
 
+## Some things you can format:
+* Headings
+* Lists
+* Emphasis
+* Links
+* Blocks of Code
+* etc.
 
+## Markdown Editors
+* Text Editor Extensions
+* Markpad
+* HarooPad
+* Markdown Pad 2
+* Typora
 
+## Text Formatting
+<!-- Headings-->
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+
+<!-- Italics -->
+*This text* is italic.
+_This text_ is italic.
+
+<!-- Stong -->
+**This text** is strong.
+__This text__ is strong.
+
+<!-- Strikethrough -->
+~~This text is strikethrough.~~
+
+<!-- Horizontal Rule -->
+---
+
+<!-- Escape Character-->
+
+\* Escape Character
+
+## Links
+
+[Example Link](www.wikipedia.org)
+
+## Unordered Lists
+* Item 1
+* Item 2
+* Item 3
+  * Item 3.1
+  * Item 3.2
+    * Item 3.2.1
+      * Item 3.2.1.1
+    * Item 3.2.2
+
+## Ordered Lists
+1. Item 1
+2. Item 2
+  3. Item 3
+4. Item 4
+  4. Item4
+5. Item5
 
 
 
