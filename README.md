@@ -1,3 +1,20 @@
+# Markdown Crash Course
+
+##What is Markdown?
+
+*Lightweight markup language with a plain text formatting syntax.
+*Can be converted into JTML/XHTML and other formats.
+*It's main purpose is readability and ease of use.
+
+
+
+
+
+
+
+
+
+
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
 Welcome USER_NAME,
