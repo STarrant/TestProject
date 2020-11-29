@@ -1,6 +1,6 @@
 # Markdown Crash Course
 
-##What is Markdown?
+## What is Markdown?
 
 *Lightweight markup language with a plain text formatting syntax.
 *Can be converted into JTML/XHTML and other formats.
