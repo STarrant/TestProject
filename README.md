@@ -2,9 +2,9 @@
 
 ## What is Markdown?
 
-*Lightweight markup language with a plain text formatting syntax.
-*Can be converted into JTML/XHTML and other formats.
-*It's main purpose is readability and ease of use.
+* Lightweight markup language with a plain text formatting syntax.
+* Can be converted into JTML/XHTML and other formats.
+* It's main purpose is readability and ease of use.
 
 
 
